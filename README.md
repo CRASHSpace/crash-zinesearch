@@ -14,9 +14,16 @@ and open the folder with Obsidian. It will ask you if you trust the developer of
 # CrashZineNotebook Features
 ## Create a New Zine
 
-Command-P or Windows-P, then type Crash Zine
+Command-P or Windows-P, then type 
+
+```
+Crash Zine
+```
 
 Create a new zine. Or create a new zine from the template.
+
+The new zine will appear in the zines/ folder
+
 ## Web Clipper
 
 An easy way to generate citations is
