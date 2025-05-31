@@ -1,4 +1,4 @@
-![[crashspace-logo.png]]
+![[/media/crashspace-logo.png]]
 
 # Welcome to Crash Zine!
 
@@ -6,7 +6,7 @@ This project is an [Obsidian.md](https://obsidian.md) notebook to help you resea
 
 If you would like the software features for this project, download and install Obsidian.md. Then download or git clone this folder 
 
-`git clone {folder name here}`
+`git clone git@github.com:CRASHSpace/crash-zinesearch.git`
 
 and open the folder with Obsidian. It will ask you if you trust the developer of the notebook. You trust me, right? 
 
