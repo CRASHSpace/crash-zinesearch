@@ -1,4 +1,4 @@
-![[/media/crashspace-logo.png]]
+![CrashSpace Logo](/media/crashspace-logo.png)
 
 # Welcome to Crash Zine!
 
