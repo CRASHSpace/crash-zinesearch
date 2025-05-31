@@ -11,14 +11,10 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "README"
+              "title": "New tab"
             }
           }
         ]
@@ -78,8 +74,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "62018eb669cd5f46",
@@ -169,11 +164,21 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "zines/test/test-why-love-it.md",
+    "zines/test/test-what-is-it.md",
+    "zines/test/test-what-else.md",
+    "zines/test/test-misconception.md",
+    "zines/test/test-index.md",
+    "zines/test/test-fun-fact.md",
+    "zines/test/test-cover.md",
+    "zines/test/test-back-cover.md",
+    "README.md",
+    "zines/test",
+    "zines/test/test-page-1.md",
     "zines/test-zine-5/test-zine-5-misconception.md",
     "zines/test-zine-5/test-zine-5-index.md",
     "zines/test-zine-5/test-zine-5-cover.md",
     "zines/test-zine-5/test-zine-5-back-cover.md",
-    "README.md",
     "zines/test-zine-5/test-zine-5-what-else.md",
     "zines/test-zine-5/test-zine-5-fun-fact.md",
     "zines/test-zine-5/test-zine-5-why-love-it.md",
@@ -187,24 +192,14 @@
     "sources/SF5130.md",
     "zines/test-zine/test-zine-fun-fact.md",
     "zines/test-zine/test-zine-cover.md",
-    "templates/zine-page.md",
-    "templates/zine-index.md",
-    "templates/zine-cover.md",
-    "templates/zine-back-cover.md",
-    "zines/test-zine/test-zine-back-cover.md",
-    "zines/test-zine/test-zine-index.md",
     "media/crashspace-logo.png",
     "media",
-    "paper-sizes.md",
-    "2025-05-24.md",
-    "sources/Welcome  CRASH Space.md",
     "zines/test-zine",
     "zines",
     "obsidian-clipper-json-files/default-clipper.json",
     "obsidian-clipper-json-files/youtube-with-transcript-clipper.json",
     "obsidian-clipper-json-files/wikipedia-clipper.json",
     "obsidian-clipper-json-files",
-    "untitled folder",
-    "Zines/test-zine"
+    "untitled folder"
   ]
 }
