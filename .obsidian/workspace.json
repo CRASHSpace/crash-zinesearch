@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "62018eb669cd5f46",
@@ -157,6 +158,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "homepage:Open homepage": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -167,7 +169,16 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "zines/test-zine-5/test-zine-5-misconception.md",
+    "zines/test-zine-5/test-zine-5-index.md",
+    "zines/test-zine-5/test-zine-5-cover.md",
+    "zines/test-zine-5/test-zine-5-back-cover.md",
     "README.md",
+    "zines/test-zine-5/test-zine-5-what-else.md",
+    "zines/test-zine-5/test-zine-5-fun-fact.md",
+    "zines/test-zine-5/test-zine-5-why-love-it.md",
+    "zines/test-zine-5/test-zine-5-what-is-it.md",
+    "zines/test-zine-5",
     "CrashRiso.md",
     "Paper Sizes Reference.md",
     "An 8 Page Zine Outline.md",
@@ -187,10 +198,6 @@
     "paper-sizes.md",
     "2025-05-24.md",
     "sources/Welcome  CRASH Space.md",
-    "zines/test-zine/test-zine-misconception.md",
-    "zines/test-zine/test-zine-why-love-it.md",
-    "zines/test-zine/test-zine-what-is-it.md",
-    "zines/test-zine/test-zine-what-else.md",
     "zines/test-zine",
     "zines",
     "obsidian-clipper-json-files/default-clipper.json",
@@ -198,11 +205,6 @@
     "obsidian-clipper-json-files/wikipedia-clipper.json",
     "obsidian-clipper-json-files",
     "untitled folder",
-    "Zines/test-zine/test-zine-back-cover.md",
-    "Zines/test-zine/test-zine-what-else.md",
-    "Zines/test-zine/test-zine-misconception.md",
-    "Zines/test-zine/test-zine-index.md",
-    "Zines/test-zine",
-    "Zines/Weekly Newspaper Nostalgia"
+    "Zines/test-zine"
   ]
 }
